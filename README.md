@@ -34,7 +34,7 @@ Kami sangat terbuka terhadap kontribusi! Jika Anda ingin berkontribusi pada proy
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Nama Lisensi Anda]. Silakan merujuk ke file [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah [Mpiie Corporation]. Silakan merujuk ke file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 Terima kasih telah menggunakan Aplikasi Desktop Administrator Service Laptop!
 
