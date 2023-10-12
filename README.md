@@ -1,7 +1,7 @@
 
 # Aplikasi Desktop Administrator Service Laptop
 
-![Aplikasi Desktop Administrator Service Laptop](https://lh3.googleusercontent.com/drive-viewer/AITFw-zL_TfQJxt7F1wtl4SOKspsiXGE4HZsQNsHi6BoJLaZz0GZ8uIAY9ZLIfRQn4zyeVHVEJHszddjMFomXCMlpoX_h3upLw=s1600)
+![Aplikasi Desktop Administrator Service Laptop](https://iili.io/J27uAJ4.png)
 
 Sebuah Aplikasi Desktop Administrator Service Laptop yang dibangun menggunakan Java, JavaSwing, dan MySQL. Aplikasi ini memiliki berbagai fitur utama, termasuk:
 
